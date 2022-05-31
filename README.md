@@ -1,2 +1,2 @@
 # My-Resume
-https://shaheerinayatali.github.io/My-Resume/
+https://shaheer-eminent.github.io/My-Resume/
